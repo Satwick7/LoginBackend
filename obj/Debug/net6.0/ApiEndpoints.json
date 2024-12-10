@@ -2,14 +2,30 @@
   {
     "ContainingType": "Register.Controllers.UserController",
     "Method": "Create",
+    "RelativePath": "api/User/CreateDoctorUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Register.Models.CreateDoctorRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Register.Controllers.UserController",
+    "Method": "Create",
     "RelativePath": "api/User/CreateUser",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "Register.Models.User",
+        "Name": "request",
+        "Type": "Register.Models.CreateUserRequest",
         "IsRequired": true
       }
     ],

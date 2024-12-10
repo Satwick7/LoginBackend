@@ -22,7 +22,6 @@ namespace Register.Models
 
         public string GenerateToken(string id,string firstname,string lastname,string email,string mobile,string gender)
         {
-            // Ensure SecretKey is at least 32 bytes (256 bits). If shorter, hash it to get 32 bytes.
             var keyBytes = Encoding.UTF8.GetBytes(this.SecretKey);
             if (keyBytes.Length < 32)
             {
