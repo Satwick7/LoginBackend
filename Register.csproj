@@ -23,6 +23,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
   </ItemGroup>
+<<<<<<< HEAD
 
   <ItemGroup>
     <ProjectReference Include="..\DbLayer\DbLayer.csproj" />
@@ -32,6 +33,12 @@
     <ItemGroup>
         <Content Remove="@(Content)" />
         <Content Include="@(Content-&gt;Distinct())" />
+=======
+<Target Name="DeduplicateContent" BeforeTargets="BeforeBuild">
+    <ItemGroup>
+        <Content Remove="@(Content)" />
+        <Content Include="@(Content->Distinct())" />
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
     </ItemGroup>
 </Target>
 

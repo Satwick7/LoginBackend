@@ -13,6 +13,10 @@ C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\Regist
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\Register.AssemblyInfoInputs.cache
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\Register.AssemblyInfo.cs
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\Register.csproj.CoreCompileInputs.cache
+<<<<<<< HEAD
+=======
+C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\Register.MvcApplicationPartsAssemblyInfo.cs
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\Register.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\scopedcss\bundle\Register.styles.css
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\staticwebassets.build.json
@@ -67,8 +71,11 @@ C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\bin\Debug\net6.0\runtim
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\Register.sourcelink.json
+<<<<<<< HEAD
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\bin\Debug\net6.0\DbLayer.dll
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\bin\Debug\net6.0\ServiceLayer.dll
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\bin\Debug\net6.0\DbLayer.pdb
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\bin\Debug\net6.0\ServiceLayer.pdb
 C:\Users\tuniki satwick\source\repos\LoginBack\LoginBack\obj\Debug\net6.0\Register.MvcApplicationPartsAssemblyInfo.cs
+=======
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a

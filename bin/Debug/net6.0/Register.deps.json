@@ -8,7 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "Register/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
           "DbLayer": "1.0.0",
+=======
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.21",
           "Microsoft.AspNetCore.Cors": "2.2.0",
           "Microsoft.EntityFrameworkCore": "6.0.0",
@@ -16,7 +19,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.0",
           "Microsoft.IdentityModel.Tokens": "6.35.0",
+<<<<<<< HEAD
           "ServiceLayer": "1.0.0",
+=======
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
           "Swashbuckle.AspNetCore": "6.5.0",
           "System.IdentityModel.Tokens.Jwt": "6.34.0"
         },
@@ -562,6 +568,7 @@
             "fileVersion": "4.700.19.56404"
           }
         }
+<<<<<<< HEAD
       },
       "DbLayer/1.0.0": {
         "dependencies": {
@@ -585,6 +592,8 @@
             "fileVersion": "1.0.0.0"
           }
         }
+=======
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
       }
     }
   },
@@ -1034,6 +1043,7 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+<<<<<<< HEAD
     },
     "DbLayer/1.0.0": {
       "type": "project",
@@ -1044,6 +1054,8 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+=======
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
     }
   }
 }

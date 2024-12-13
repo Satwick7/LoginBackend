@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "4tnEnYa1Vog=",
+=======
+  "dgSpecHash": "pMidQin6SiM=",
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
   "success": true,
   "projectFilePath": "C:\\Users\\tuniki satwick\\source\\repos\\LoginBack\\LoginBack\\Register.csproj",
   "expectedPackageFiles": [

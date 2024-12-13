@@ -1,10 +1,16 @@
 using System.Text;
+<<<<<<< HEAD
 using DbLayer;
+=======
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Register.Models;
+<<<<<<< HEAD
 using ServiceLayer;
+=======
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,9 +29,12 @@ builder.Services.AddCors(options =>
 builder.Services.AddDbContext<UserContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyDBConnection")));
 
+<<<<<<< HEAD
 builder.Services.AddScoped<UserRepository>(); //DbLayer
 builder.Services.AddScoped<IUserService,UserService>(); //ServiceLayer
 
+=======
+>>>>>>> 66fd50469eb94b86450f33b9e0dfb8b2c80e511a
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(x =>
 {
     x.TokenValidationParameters = new TokenValidationParameters
